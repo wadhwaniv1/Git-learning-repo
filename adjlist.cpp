@@ -1,4 +1,4 @@
-#include <iostream>
+#include <iostream>//Adjacency list graph
 using namespace std;
 struct node
 {
